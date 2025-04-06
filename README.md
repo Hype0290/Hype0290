@@ -10,19 +10,18 @@
 
 ---
 
-
 <p align="center">
-<img src="https://img.shields.io/badge/Say%20Gex-blue" alt="Say Gex Badge" />
-  <img src="https://img.shields.io/badge/Linux-%23007ACC?style=flat&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pop!_OS-%233F4B4F?style=flat&logo=popos&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05033?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Say%20Gex-blue" alt="Say Gex Badge" />
+  <img src="https://img.shields.io/badge/Linux-%23007ACC?style=flat&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Pop!_OS-%233F4B4F?style=flat&logo=popos&logoColor=white" alt="Pop!_OS" />
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-%23F05033?style=flat&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
 <p align="center">
   <a href="https://github.com/Hype0290">
-    <img src="https://img.shields.io/badge/GitHub-Hype0290-181717?style=flat&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Hype0290-181717?style=flat&logo=github" alt="GitHub" />
   </a>
 </p>
